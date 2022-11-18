@@ -1,4 +1,10 @@
 ### Hi there 👋
+### Call me DiNz
+
+<p align="center">
+<a href="https://www.linkedin.com/in/pakorn-sub/"><img src="https://img.shields.io/badge/-karnsiree&ndash;w&ndash;7b535b202-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
+<a href="https://github.com/MrDiNz"><img src="https://img.shields.io/badge/-kahnwong-3a3a3a?style=flat&logo=GitHub&logoColor=white" /></a>
+</p>
 
 <!--
 **MrDiNz/MrDiNz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
