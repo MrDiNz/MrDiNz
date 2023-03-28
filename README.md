@@ -4,8 +4,8 @@
 </div>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/pakorn-sub/"><img src="https://img.shields.io/badge/Pakorn-Subpoonkerd-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
-<a href="https://github.com/MrDiNz"><img src="https://img.shields.io/badge/-MrDiNz-3a3a3a?style=flat&logo=GitHub&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/pakorn-sub/" target="_blank"><img src="https://img.shields.io/badge/Pakorn-Subpoonkerd-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
+<a href="https://github.com/MrDiNz" target="_blank"><img src="https://img.shields.io/badge/-MrDiNz-3a3a3a?style=flat&logo=GitHub&logoColor=white" /></a>
 </p>
 
 
